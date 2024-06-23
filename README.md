@@ -60,7 +60,7 @@ below variables helps to predict the demand for shared bikes
 Created by [@ShivaMylarapu](https://github.com/mrsivanandareddy) 
 
 ## Data Set
-=========================================
+
 License
 =========================================
 Use of this dataset in publications must be cited to the following publication:
